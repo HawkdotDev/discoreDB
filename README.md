@@ -1,6 +1,6 @@
-# textDB
+# discoreDB
 
-textDB is a NoSQL database system built on top of the Discord API. It allows users to store and retrieve data in text format within Discord chat, providing a lightweight alternative to traditional database systems like MongoDB.
+discoreDB is a NoSQL database system built on top of the Discord API. It allows users to store and retrieve data in text format within Discord chat, providing a lightweight alternative to traditional database systems.
 
 ## Features
 
@@ -10,12 +10,12 @@ textDB is a NoSQL database system built on top of the Discord API. It allows use
 
 ## Getting Started
 
-To get started with textDB, follow these steps:
+To get started with discoreDB, follow these steps:
 
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/your-username/textDB.git
+    git clone https://github.com/your-username/discoreDB.git
     ```
 
 2. Install dependencies:
@@ -50,7 +50,7 @@ To get started with textDB, follow these steps:
 
 ## Commands
 
-textDB supports the following commands:
+discoreDB currently supports the following commands: (more on the way)
 
 - `!insert <data>`: Insert data into the database.
 - `!find <query>`: Find data matching the specified query.
